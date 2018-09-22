@@ -8,9 +8,9 @@ class App extends Component {
     return (
       <div className="App">
         <CustomImage 
-        selectedImage={ColoredStar}
-        image={Star}
-        Imagecount='5' />
+          selectedImage={ColoredStar}
+          image={Star}
+          Imagecount='5' />
       </div>
     );
   }
